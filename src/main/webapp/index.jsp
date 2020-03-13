@@ -11,7 +11,7 @@
       <img src="https://miro.medium.com/max/981/1*T81YZjqBfVDH0sOcKnk_rw.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">And that's how do CI/CD!</h1>
-      <h2 class="text-center">You are now with Vedu :)</h2>
+      <h2 class="text-center">Thank you :)</h2>
   </div>
 </body>
 </html>
